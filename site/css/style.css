@@ -1,0 +1,226 @@
+* {
+	box-sizing: border-box;
+}
+
+@media (min-width: 992px) {
+
+p {
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+section {
+	color: white;
+	border: 1px solid black;
+	width: 32%;
+	height: 240px;
+	background-color: #72aee6;
+}
+
+h3 {
+	text-align: center;
+
+	
+
+}
+
+div.title {
+	color: white;
+	text-align: right;
+	border: 1px solid black;
+	margin-left: 65%;
+	width: 35%;
+	
+}
+
+div.cs2 {
+
+	background-color: #FD8A04;
+}
+
+div.valorant{
+
+	background-color: #F67280;
+}
+
+div.DOTA-2 {
+	background-color: #D63638;
+}
+
+
+
+#container {
+	position: relative;
+	height: 155px;
+}
+
+.section-1 {
+	position: absolute;
+	top:0px;
+	left: 0px;
+	margin-left: 10px;
+
+}
+
+.section-2 {
+	position: absolute;
+	top:0px;
+	left: 34%;
+}
+
+
+.section-3 {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin-right: 10px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+p {
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+section {
+	color: white;
+	border: 1px solid black;
+	width: 48%;
+	height: 240px;
+	background-color: #72aee6;
+}
+
+h3 {
+	text-align: center;
+
+	
+
+}
+
+div.title {
+	color: white;
+	text-align: right;
+	border: 1px solid black;
+	margin-left: 65%;
+	width: 35%;
+	
+}
+
+div.cs2 {
+
+	background-color: #FD8A04;
+}
+
+div.valorant{
+
+	background-color: #F67280;
+}
+
+div.DOTA-2 {
+	background-color: #D63638;
+}
+
+
+
+#container {
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.section-1 {
+	position: absolute;
+	top:0px;
+	left: 0px;
+
+}
+
+.section-2 {
+	position: absolute;
+	top:0px;
+	right: 0px;
+}
+
+
+.section-3 {
+	position: absolute;
+	top: 240px;
+	margin-top: 30px;
+	width: 100%;
+}
+
+}
+
+@media (max-width: 767px) {
+
+p {
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+section {
+	color: white;
+	border: 1px solid black;
+	height: 240px;
+	background-color: #72aee6;
+	margin-top: 5%;
+}
+
+h3 {
+	text-align: center;
+
+	
+
+}
+
+div.title {
+	color: white;
+	text-align: right;
+	border: 1px solid black;
+	margin-left: 65%;
+	width: 35%;
+	
+}
+
+div.cs2 {
+
+	background-color: #FD8A04;
+}
+
+div.valorant{
+
+	background-color: #F67280;
+}
+
+div.DOTA-2 {
+	background-color: #D63638;
+}
+
+
+
+#container {
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+} 
+
